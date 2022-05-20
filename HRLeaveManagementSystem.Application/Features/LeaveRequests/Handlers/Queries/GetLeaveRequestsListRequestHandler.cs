@@ -2,9 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 using AutoMapper;
-using HRLeaveManagementSystem.Application.DTOs;
 using HRLeaveManagementSystem.Application.DTOs.LeaveRequest;
-using HRLeaveManagementSystem.Application.Features.LeaveAllocation.Requests.Queries;
 using HRLeaveManagementSystem.Application.Features.LeaveRequests.Requests.Queries;
 using HRLeaveManagementSystem.Application.Persistance.Contracts;
 using MediatR;
