@@ -5,6 +5,7 @@ using HRLeaveManagementSystem.Application.Persistance.Contracts;
 using MediatR;
 using System.Threading;
 using System.Threading.Tasks;
+using HRLeaveManagementSystem.Application.DTOs.LeaveType;
 
 namespace HRLeaveManagementSystem.Application.Features.LeaveType.Handlers.Queries
 {
