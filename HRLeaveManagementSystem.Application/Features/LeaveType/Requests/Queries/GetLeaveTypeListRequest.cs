@@ -1,10 +1,6 @@
-﻿using HRLeaveManagementSystem.Application.DTOs;
-using MediatR;
-using System;
+﻿using MediatR;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using HRLeaveManagementSystem.Application.DTOs.LeaveType;
 
 namespace HRLeaveManagementSystem.Application.Features.LeaveType.Requests.Queries
 {
